@@ -1,2 +1,4 @@
 node_modules/
 coba.js
+# Local Netlify folder
+.netlify
